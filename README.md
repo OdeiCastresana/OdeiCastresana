@@ -14,7 +14,7 @@
 </p>
 
 <ul>
-  <li>⚡ Currently working as <b>Electronics Engineer at Gutor Electronics</b></li>
+  <li>⚡ Currently working as <b>Electronics Engineer at Gutor Electronics LLC </b></li>
   <li>📍 Based in Switzerland</li>
   <li>🎓 Industrial Electronics Engineer — <b>Mondragon Unibertsitatea</b></li>
   <li>🔌 Focused on power electronics, hardware validation & industrial systems</li>
